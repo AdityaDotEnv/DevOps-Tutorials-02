@@ -16,7 +16,7 @@ public class WebPageTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://adityadotenv.github.io/DevOps-Tutorials/");
+        driver.get("https://adityadotenv.github.io/DevOps-Tutorials-02/");
     }
 
     @Test
